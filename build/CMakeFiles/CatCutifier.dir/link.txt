@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libCatCutifier.a  CMakeFiles/CatCutifier.dir/src/CatCutifier.cpp.o
+/usr/bin/ranlib lib/libCatCutifier.a

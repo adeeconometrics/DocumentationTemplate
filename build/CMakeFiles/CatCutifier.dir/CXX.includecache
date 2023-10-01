@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/ddamiana/Documents/CodeProjects/experiments/Cpp/DoxyNew/include/CatCutifier.hpp
+iostream
+-
+string
+-
+
+/mnt/c/Users/ddamiana/Documents/CodeProjects/experiments/Cpp/DoxyNew/src/CatCutifier.cpp
+../include/CatCutifier.hpp
+/mnt/c/Users/ddamiana/Documents/CodeProjects/experiments/Cpp/DoxyNew/include/CatCutifier.hpp
+
