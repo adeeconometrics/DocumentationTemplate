@@ -18,7 +18,6 @@ jobs:
     - name: Requirements
       run: |
         sudo apt-get install make cmake build-essential
-        pip3 install sphinx-doc
         pip3 install sphinx
         pip3 install sphinx-rtd-theme
         pip3 install breathe
