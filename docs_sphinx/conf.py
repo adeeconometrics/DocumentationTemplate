@@ -77,6 +77,7 @@ html_theme_options = {
     'includehidden': True,
     'titles_only': False
 }
+
 # html_logo = ''
 # github_url = ''
 # html_baseurl = ''

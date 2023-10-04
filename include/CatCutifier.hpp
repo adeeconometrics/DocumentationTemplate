@@ -7,9 +7,11 @@
 /// Foo
 class Foo {
 
-  /// Say hello
-  /// @param message The message to print
-  /// $\phi(x)=sum(x)$
+  /**
+   * @brief /(x/) something
+   * 
+   * @param message message to print
+   */
   void say_hello(std::string message) const;
 };
 

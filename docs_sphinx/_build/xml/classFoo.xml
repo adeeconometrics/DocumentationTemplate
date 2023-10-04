@@ -14,14 +14,15 @@
           <declname>message</declname>
         </param>
         <briefdescription>
+<para>/(x/) something </para>
         </briefdescription>
         <detaileddescription>
-<para>Say hello <parameterlist kind="param"><parameteritem>
+<para><parameterlist kind="param"><parameteritem>
 <parameternamelist>
 <parametername>message</parametername>
 </parameternamelist>
 <parameterdescription>
-<para>The message to print </para>
+<para>message to print </para>
 </parameterdescription>
 </parameteritem>
 </parameterlist>
@@ -29,7 +30,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/mnt/c/Users/ddamiana/Documents/CodeProjects/experiments/Cpp/DoxyNew/include/CatCutifier.hpp" line="12" column="8"/>
+        <location file="/mnt/c/Users/ddamiana/Documents/CodeProjects/experiments/Cpp/DoxyNew/include/CatCutifier.hpp" line="15" column="8"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -37,7 +38,7 @@
     </briefdescription>
     <detaileddescription>
     </detaileddescription>
-    <location file="/mnt/c/Users/ddamiana/Documents/CodeProjects/experiments/Cpp/DoxyNew/include/CatCutifier.hpp" line="8" column="10" bodyfile="/mnt/c/Users/ddamiana/Documents/CodeProjects/experiments/Cpp/DoxyNew/include/CatCutifier.hpp" bodystart="8" bodyend="13"/>
+    <location file="/mnt/c/Users/ddamiana/Documents/CodeProjects/experiments/Cpp/DoxyNew/include/CatCutifier.hpp" line="8" column="10" bodyfile="/mnt/c/Users/ddamiana/Documents/CodeProjects/experiments/Cpp/DoxyNew/include/CatCutifier.hpp" bodystart="8" bodyend="16"/>
     <listofallmembers>
       <member refid="classFoo_1abf88c4997abff7e0244459cca65f3a94" prot="private" virt="non-virtual"><scope>Foo</scope><name>say_hello</name></member>
     </listofallmembers>

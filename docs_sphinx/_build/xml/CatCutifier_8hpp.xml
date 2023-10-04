@@ -34,10 +34,10 @@
 <codeline lineno="6"><highlight class="normal"></highlight></codeline>
 <codeline lineno="8" refid="classFoo" refkind="compound"><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="classFoo" kindref="compound">Foo</ref><sp/>{</highlight></codeline>
 <codeline lineno="9"><highlight class="normal"></highlight></codeline>
-<codeline lineno="12"><highlight class="normal"><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>say_hello(std::string<sp/>message)<sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal">;</highlight></codeline>
-<codeline lineno="13"><highlight class="normal">};</highlight></codeline>
-<codeline lineno="14"><highlight class="normal"></highlight></codeline>
-<codeline lineno="15"><highlight class="normal"></highlight><highlight class="preprocessor">#endif<sp/>//<sp/>__CATCUTIFIER_H__</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>say_hello(std::string<sp/>message)<sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="16"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight><highlight class="preprocessor">#endif<sp/>//<sp/>__CATCUTIFIER_H__</highlight></codeline>
     </programlisting>
     <location file="/mnt/c/Users/ddamiana/Documents/CodeProjects/experiments/Cpp/DoxyNew/include/CatCutifier.hpp"/>
   </compounddef>
